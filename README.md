@@ -4,11 +4,11 @@
 
 1. Import the aws-lambda-java-core package (Maven).
 ```
-        <dependency>
-            <groupId>com.amazonaws.serverless</groupId>
-            <artifactId>aws-serverless-java-container-spring</artifactId>
-            <version>1.4</version>
-        </dependency>
+    <dependency>
+      <groupId>com.amazonaws</groupId>
+      <artifactId>aws-lambda-java-core</artifactId>
+      <version>1.1.0</version>
+    </dependency>
 ```        
 2. Write your code (Java 8).
 
